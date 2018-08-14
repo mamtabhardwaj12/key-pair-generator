@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /home/ubuntu/lendledger/key-pair-generator
-npm start
+sudo npm start
